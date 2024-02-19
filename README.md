@@ -3,7 +3,7 @@
 <h3 align="center">Web Developer and AI/ML Engineer</h3>
 
 
-<h3 align="center">👉 Access my <a href="https://revech.github.io/RevePortfolio.github.io/](https://revech.github.io/RevePortfolio.github.io/">Portfolio </a> 👈</h3>
+<h3 align="center">👉 Access my <a href="https://revech.github.io/RevePortfolio.github.io/">Portfolio </a> 👈</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=revech&label=Profile%20views&color=0e75b6&style=flat" alt="revech" /> </p>
 
 

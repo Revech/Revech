@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Reve Chahine, a recent Computer Engineering graduate with a zest for software development. My journey in tech has been an exciting blend of AI innovations and crafting sleek web applications. I thrive on solving complex problems and turning ideas into reality through code.<br><br>A bit about me:<br>🎓 Education: Computer Engineering<br>💡 Passions: AI, Web Development, and everything in between<br>💼 Experience: Building intelligent systems and intuitive web interfaces<br>Feel free to explore my projects, and don't hesitate to reach out if you'd like to collaborate or chat about tech. Let's connect and push the boundaries of technology together!
+I'm Reve Chahine, a fresh Computer Engineering graduate with a zest for software development. My journey in tech has been an exciting blend of AI innovations and crafting sleek web applications. I thrive on solving complex problems and turning ideas into reality through code.<br><br>A bit about me:<br>🎓 Education: Computer Engineering<br>💡 Passions: AI, Web Development, and everything in between<br>💼 Experience: Building intelligent systems and intuitive web interfaces<br>Feel free to explore my projects, and don't hesitate to reach out if you'd like to collaborate or chat about tech. Let's connect and push the boundaries of technology together!
 
 
 ## 🌐 Socials:

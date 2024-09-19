@@ -1,4 +1,4 @@
-# It's Reve :) know more about Me 🚀 :
+# It's Reve :) Know more about Me 🚀 :
 Hey there! I'm a freshly minted Computer Engineering grad who loves diving into code and cracking tough problems. I'm on a mission to expand my tech toolbox, especially in AI and web development. I thrive on continuous learning and love facing challenges head-on (the more challenging, the better!). Join me on this exciting journey as I boost my problem-solving skills and tackle cool projects. Let's code something amazing together!
 
 Challenges that push my limits, help me grow! 🚀 Let's go! 🌟

@@ -2,6 +2,7 @@
 
 System Engineer, learning is my ultimate goal. 
 
+I like to game, sometimes.
 
 
 ## 🌐 Socials:
